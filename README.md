@@ -1,6 +1,6 @@
 🧩 React Ticket Management App
 
-Live Demo: https://Mykaelyung.github.io/react-ticketapp
+Live Demo: https://mychaelyung.github.io/ticketbooth-react/
 
 ⚙️ Setup
 git clone https://github.com/Mychaelyung/ticketbooth-react.git
